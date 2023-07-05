@@ -1,4 +1,4 @@
-- 🤝 Hi, it,s Oğuzhan!
+- 🤝 Hi, it's Oğuzhan!
 - 👀 He's interested in computer science, programming, psychology, philosophy and sociology. 
 - 🌱 He's currently learning C# as a computer language. Apart from that, he's learning English as human language :]. 
 - 💞️ He's looking to collaborate on digital discussions (discussion culture).
