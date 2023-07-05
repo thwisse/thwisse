@@ -1,9 +1,9 @@
-- 🤝 Hi, I’m Oğuzhan!
-- 👀 I’m interested in computer science, programming, psychology, philosophy and sociology. 
-- 🌱 I’m currently learning C# as a computer language. Apart from that, I am learning English as human language :]. 
-- 💞️ I’m looking to collaborate on digital discussions (discussion culture).
-- 📫 How to reach me ... you can reach me via e-mail. (thwisse@tutanota.com)
-- ✨ My LinkedIn profile: [click](https://www.linkedin.com/in/thwisse)
+- 🤝 Hi, it,s Oğuzhan!
+- 👀 He's interested in computer science, programming, psychology, philosophy and sociology. 
+- 🌱 He's currently learning C# as a computer language. Apart from that, he's learning English as human language :]. 
+- 💞️ He's looking to collaborate on digital discussions (discussion culture).
+- 📫 How to reach him ... you can reach him via e-mail. (thwisse@tutanota.com)
+- ✨ LinkedIn profile: [click](https://www.linkedin.com/in/thwisse)
 - 👋 Byee !
 
 <!---
